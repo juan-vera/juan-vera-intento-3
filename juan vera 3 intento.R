@@ -120,17 +120,17 @@ pequena_peru$tamanio <-(3)
 #2Reuna todas las bases en una sola y defina de qué tipología (tipo de datos) son cada una de las variables que se encuentran en la data.(1 pto)
 
 
-rbinded_df <- data.frame()
+rbinded_dv <- data.frame()
 
-rbinded_df <- rbind(rbinded_df,grandes_chile)
+rbinded_dv <- rbind(rbinded_dv,grandes_chile)
 
-rbinded_df <- rbind(rbinded_df,medianas_chile)
+rbinded_dv <- rbind(rbinded_dv,medianas_chile)
 
-rbinded_df <- rbind(rbinded_df,grandes_colombia)
+rbinded_dv <- rbind(rbinded_dv,grandes_colombia)
 
-rbinded_df <- rbind(rbinded_df,grandes_peru)
+rbinded_dv <- rbind(rbinded_dv,grandes_peru)
 
-rbinded_df <- rbind(rbinded_df,                    
+rbinded_dv <- rbind(rbinded_dv,                    
 
                     
                     

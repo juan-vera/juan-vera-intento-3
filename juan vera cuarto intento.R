@@ -367,10 +367,10 @@ if (substr(exporiginal,entero,entero)=="0"){
 }else if (substr(exporiginal,entero,entero)=="9"){
       valor<-9
 }else if (substr(exporiginal,entero,entero)==","){
-      valor<-"no"
+      valor<-"cansela"
    }
     
-    if (valor!="no"){ 
+    if (valor!="cansela"){ 
       
       exponumerica<-exponumerica + valor* (10^potencia)
   }
